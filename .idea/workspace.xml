@@ -7,6 +7,8 @@
     <list default="true" id="bcf1ed39-c5c6-49bf-8988-1974e483139b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/model/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/model/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/repository/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/repository/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/repository/VoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/repository/VoteRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
